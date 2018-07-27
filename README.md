@@ -8,9 +8,9 @@ After the cleaning and data preparation, the dataset is separated in train and t
 
 The trained dataset is used to train the machine learning models available in the scikit learn like Linear Regression, Lars, Lasso and so on.
 
-After the training, the test dataset is used to evaluated the performance of the trained models.
+After the training, the test dataset is used to evaluate the performance of the trained models.
 
-At the end of the execution, it is shown a table with the performance of all models with its effectiveness in predict the price of the automobiles along with the time needed to train the model.
+At the end of the execution, it is shown a table with the performance of all models along with its effectiveness in predict the price of the automobiles along with the time needed to train the model.
 
 I made this script during my data science studies to serve as a base to compare any number of machine learning models with any dataset.
 
